@@ -1,0 +1,11 @@
+C:\Users\developer\source\repos\As400Client\As400Client\bin\Debug\As400Client.exe.config
+C:\Users\developer\source\repos\As400Client\As400Client\bin\Debug\As400Client.exe
+C:\Users\developer\source\repos\As400Client\As400Client\bin\Debug\As400Client.pdb
+C:\Users\developer\source\repos\As400Client\As400Client\bin\Debug\As400Client.exe.manifest
+C:\Users\developer\source\repos\As400Client\As400Client\bin\Debug\As400Client.application
+C:\Users\developer\source\repos\As400Client\As400Client\obj\Debug\As400Client.csprojAssemblyReference.cache
+C:\Users\developer\source\repos\As400Client\As400Client\obj\Debug\As400Client.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\As400Client\As400Client\obj\Debug\As400Client.exe.manifest
+C:\Users\developer\source\repos\As400Client\As400Client\obj\Debug\As400Client.application
+C:\Users\developer\source\repos\As400Client\As400Client\obj\Debug\As400Client.exe
+C:\Users\developer\source\repos\As400Client\As400Client\obj\Debug\As400Client.pdb
